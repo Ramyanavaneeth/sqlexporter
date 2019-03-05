@@ -1,3 +1,4 @@
 language: csharp
+solution prometheus_sql_server_exporter.sln
 mono: none
-dotnet: 2.1.502
+dotnet: 2.2.102
